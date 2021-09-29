@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sirine Kassem
-- 👀 I’m interested in everything about Computer science, especially developpment
+- 👀 I’m interested in everything about Computer science, especially devloppment
 - 🌱 I’m currently learning Angular and Devops
 - 💞️ I’m improvement my skills and getting more knowledge to get a good job
 - 📫 How to reach me by email : kassem.sirine@gmail.com
